@@ -1,0 +1,64 @@
+
+<!-- nav bar -->
+<div class="bg-image">
+<div class="content">
+<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+<!--h3 *ngFor="let data of productList">name:{{data.name}}</h3-->
+<div *ngIf="display; then main; else show"></div>
+
+<ng-template #main>
+    <div class="search-container">
+      <input type="text" [(ngModel)]="searchText" (keydown.enter)="search()" placeholder="Search...">
+      <button class="submit-btn" (click)="search()">Search</button>
+    </div>
+</ng-template>
+
+
+<ng-template #show>
+  <div *ngFor="let prod of productList | filter:searchText" >
+    <div *ngIf="searchText === '' || prod.name.toLowerCase().includes(searchText)">
+      <mat-card class="mat1">
+        <h2>Name: {{prod.name}}</h2>
+        <div>Description: {{prod.description}}</div>
+        <div><img src="{{prod.img}}" alt=""></div>
+      </mat-card>
+    </div>
+  </div>
+  <div *ngFor="let data of shopList | filter:searchText">
+    <mat-card class="mat2">
+      <mat-card-title>
+        <div>name: {{data.name}}</div>
+        <div>Address: {{data.address}}</div>
+        <div>Contact No: {{data.contact}}</div>
+      </mat-card-title>
+    </mat-card>
+  </div>
+</ng-template>
+
+
+<!--div id="maps" style="width: 650px; height: 350px;">
+</div>
+<script>
+  function initMap(){
+    let uluru = {lat: -25.344, lng: 131.036};
+    let map = new google.maps.Map(
+      document.getElementById('maps'),{zoom:4, center: uluru}
+    );
+    let marker = new google.maps.Marker({position: uluru, map: maps})
+  }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDp51TWrCe9TEG_22qFY5S2ApeVLIK1jXU&callback=initMap"></script-->
+
+
+
+<!--div class="full" id="map"></div-->
+</div>
+</div>
+<router-outlet></router-outlet>

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s001",
+    "name": "Happy Pharmacy",
+    "address": "55, New Road, Milhan",
+    "contact": "123-456-7890",
+    "keywords": ["aspirin", "ibuprofen", "acetaminophen", "benadryl", "pepto-bismol", "tylenol", "claritin", "zantac", "zyrtec", "advil", "motrin", "aleve", "excedrin", "dayquil", "nyquil", "robitussin", "sudafed", "mucinex", "thorazine", "xanax"]
+  },
+  {
+    "id": "s002",
+    "name": "Healthy Pharmacy",
+    "address": "123, Main Street, Milhan",
+    "contact": "456-789-0123",
+    "keywords": ["aspirin", "ibuprofen", "acetaminophen", "benadryl", "pepto-bismol", "tylenol", "claritin", "zantac", "zyrtec", "advil", "motrin", "aleve", "excedrin", "dayquil", "nyquil", "robitussin", "sudafed", "mucinex", "ativan", "prozac"]
+  },
+  {
+    "id": "s003",
+    "name": "Sunrise Pharmacy",
+    "address": "789, Oak Avenue, Milhan",
+    "contact": "234-567-8901",
+    "keywords": ["aspirin", "ibuprofen", "acetaminophen", "benadryl", "pepto-bismol", "tylenol", "claritin", "zantac", "zyrtec", "advil", "motrin", "aleve", "excedrin", "dayquil", "nyquil", "robitussin", "sudafed", "mucinex"]
+  },
+  {
+    "id": "s004",
+    "name": "Milhan Pharmacy",
+    "address": "55 New Road, Milhan",
+    "contact": "01234 567890",
+    "keywords": ["aspirin", "paracetamol", "ibuprofen", "amoxicillin", "tramadol"]
+  },
+  {
+    "id": "s005",
+    "name": "Greenfield Pharmacy",
+    "address": "18 High Street, Greenfield",
+    "contact": "02345 678901",
+    "keywords": ["paracetamol", "ibuprofen", "codeine", "tramadol", "oxycodone"]
+  },
+  {
+    "id": "s006",
+    "name": "Southside Pharmacy",
+    "address": "77 South Road, Milhan",
+    "contact": "03456 789012",
+    "keywords": ["aspirin", "ibuprofen", "amoxicillin", "tramadol", "naproxen"]
+  },
+  {
+    "id": "s007",
+    "name": "Parkview Pharmacy",
+    "address": "11 Park Street, Greenfield",
+    "contact": "04567 890123",
+    "keywords": ["paracetamol", "codeine", "oxycodone", "tramadol", "gabapentin"]
+  },
+  {
+    "id": "s008",
+    "name": "Central Pharmacy",
+    "address": "3 High Street, Milhan",
+    "contact": "05678 901234",
+    "keywords": ["aspirin", "ibuprofen", "amoxicillin", "naproxen", "tramadol"]
+  }
+]

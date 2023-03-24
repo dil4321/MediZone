@@ -1,0 +1,52 @@
+{
+    "p":[{
+        "id": "001",
+        "name": "Aspirin",
+        "des": "Pain reliever and fever reducer",
+        "address": "ABC Pharmacy",
+        "contact": "555-1234",
+        "price": 10.99
+    },
+
+    {
+        "id": "002",
+        "name": "Lisinopril",
+        "des": "Blood pressure medication",
+        "address": "XYZ Pharmacy",
+        "contact": "555-5678",
+        "price": 15.99
+    },
+    {
+        "id": "003",
+        "name": "Metformin",
+        "des": "Diabetes medication",
+        "address": "Sunrise Pharmacy",
+        "contact": "555-9012",
+        "price": 20.99
+    },
+    {
+        "id": "004",
+        "name": "Naproxen",
+        "des": "Pain reliever",
+        "address": "Greenfield Pharmacy",
+        "contact": "555-3456",
+        "price": 12.99
+    },
+      
+    {
+        "id": "005",
+        "name": "Ciprofloxacin",
+        "des": "Antibiotic",
+        "address": "Broadway Pharmacy",
+        "contact": "555-7890",
+        "price": 25.99
+    }
+      
+      
+
+]
+
+
+      
+      
+}

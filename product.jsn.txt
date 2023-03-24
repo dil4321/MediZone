@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": "p001",
+      "name": "Aspirin",
+      "description": "Aspirin is a medication used to treat pain, fever, and inflammation. It works by blocking the production of certain chemicals in the body that cause pain and inflammation.",
+      "price": "$5-$10"
+    },
+    {
+      "id": "p002",
+      "name": "Ibuprofen",
+      "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, fever, and inflammation. It works by blocking the production of certain chemicals in the body that cause pain and inflammation.",
+      "price": "$5-$10"
+    },
+    {
+      "id": "p003",
+      "name": "Acetaminophen",
+      "description": "Acetaminophen is a medication used to treat pain and reduce fever. It works by blocking the production of certain chemicals in the body that cause pain and fever.",
+      "price": "$5-$10"
+    },
+    {
+      "id": "p004",
+      "name": "Benadryl",
+      "description": "Benadryl is an antihistamine medication used to treat allergy symptoms such as itching, swelling, and hives. It works by blocking the effects of histamine, a chemical in the body that causes allergy symptoms.",
+      "price": "$5-$10"
+    },
+    {
+      "id": "p005",
+      "name": "Pepto-Bismol",
+      "description": "Pepto-Bismol is a medication used to treat digestive problems such as nausea, heartburn, and indigestion. It works by coating the stomach and intestines with a protective layer that helps to reduce inflammation and irritation.",
+      "price": "$5-$10"
+    },
+    {
+      "id": "p006",
+      "name": "Tylenol",
+      "description": "Tylenol is a medication used to treat pain and reduce fever. It works by blocking the production of certain chemicals in the body that cause pain and fever.",
+      "price": "$5-$10"
+    },
+   
+  {
+    "id": "p007",
+    "name": "Claritin",
+    "description": "Claritin is an antihistamine used to treat allergies and hives.",
+    "price": "$10.99 - $24.99"
+  },
+  {
+    "id": "p008",
+    "name": "Zantac",
+    "description": "Zantac is a histamine-2 blocker used to treat and prevent ulcers and gastroesophageal reflux disease (GERD).",
+    "price": "$8.99 - $19.99"
+  },
+  {
+    "id": "p009",
+    "name": "Zyrtec",
+    "description": "Zyrtec is an antihistamine used to treat allergies, hives, and itching.",
+    "price": "$12.99 - $28.99"
+  },
+  {
+    "id": "p010",
+    "name": "Advil",
+    "description": "Advil is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce fever.",
+    "price": "$7.99 - $16.99"
+  },
+  {
+    "id": "p011",
+    "name": "Motrin",
+    "description": "Motrin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce fever, and treat inflammation.",
+    "price": "$8.99 - $19.99"
+  },
+  {
+    "id": "p012",
+    "name": "Aleve",
+    "description": "Aleve is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce fever, and treat inflammation.",
+    "price": "$9.99 - $22.99"
+  },
+  {
+    "id": "p013",
+    "name": "Excedrin",
+    "description": "Excedrin is a pain reliever that contains acetaminophen, aspirin, and caffeine to treat headaches, menstrual cramps, and other types of pain.",
+    "price": "$6.99 - $14.99"
+  },
+  {
+    "id": "p014",
+    "name": "Dayquil",
+    "description": "Dayquil is a cold and flu medicine that contains acetaminophen, dextromethorphan, and phenylephrine to relieve symptoms such as cough, sore throat, and fever.",
+    "price": "$8.99 - $19.99"
+  },
+  {
+    "id": "p015",
+    "name": "Nyquil",
+    "description": "Nyquil is a cold and flu medicine that contains acetaminophen, dextromethorphan, and doxylamine to relieve symptoms such as cough, sore throat, and fever, and help you sleep.",
+    "price": "$9.99 - $22.99"
+  },
+  {
+    "id": "p015",
+    "name": "Robitussin",
+    "description": "Robitussin is a cough medicine that contains dextromethorphan to relieve coughs caused by colds and flu.",
+    "price": "$7.99 - $16.99"
+  },
+  {
+    "id": "p011",
+    "name": "Sudafed",
+    "description": "Sudafed is a decongestant that contains pseudoephedrine to relieve nasal congestion caused by colds, flu, and allergies.",
+    "price": "$8-$10"
+  }
+  ]

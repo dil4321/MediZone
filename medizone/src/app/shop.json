@@ -1,0 +1,82 @@
+[
+    {
+      "id": "s001",
+      "name": "Happy Pharmacy",
+      "address": "55, New Road, Milhan",
+      "contact": "123-456-7890",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["aspirin", "ibuprofen", "acetaminophen", "benadryl", "pepto-bismol", "tylenol", "claritin", "zantac", "zyrtec", "advil", "motrin", "aleve", "excedrin", "dayquil", "nyquil", "robitussin", "sudafed", "mucinex", "thorazine", "xanax"]
+    },
+    {
+      "id": "s002",
+      "name": "Healthy Pharmacy",
+      "address": "123, Main Street, Milhan",
+      "contact": "456-789-0123",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["aspirin", "ibuprofen", "acetaminophen", "benadryl", "pepto-bismol", "tylenol", "claritin", "zantac", "zyrtec", "advil", "motrin", "aleve", "excedrin", "dayquil", "nyquil", "robitussin", "sudafed", "mucinex", "ativan", "prozac"]
+    },
+    {
+      "id": "s003",
+      "name": "Sunrise Pharmacy",
+      "address": "789, Oak Avenue, Milhan",
+      "contact": "234-567-8901",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["aspirin", "ibuprofen", "acetaminophen", "benadryl", "pepto-bismol", "tylenol", "claritin", "zantac", "zyrtec", "advil", "motrin", "aleve", "excedrin", "dayquil", "nyquil", "robitussin", "sudafed", "mucinex"]
+    },
+    {
+      "id": "s004",
+      "name": "Milhan Pharmacy",
+      "address": "55 New Road, Milhan",
+      "contact": "01234 567890",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["aspirin", "paracetamol", "ibuprofen", "amoxicillin", "tramadol"]
+    },
+    {
+      "id": "s005",
+      "name": "Greenfield Pharmacy",
+      "address": "18 High Street, Greenfield",
+      "contact": "02345 678901",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["paracetamol", "ibuprofen", "codeine", "tramadol", "oxycodone"]
+    },
+    {
+      "id": "s006",
+      "name": "Southside Pharmacy",
+      "address": "77 South Road, Milhan",
+      "contact": "03456 789012",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["aspirin", "ibuprofen", "amoxicillin", "tramadol", "naproxen"]
+    },
+    {
+      "id": "s007",
+      "name": "Parkview Pharmacy",
+      "address": "11 Park Street, Greenfield",
+      "contact": "04567 890123",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["paracetamol", "codeine", "oxycodone", "tramadol", "gabapentin"]
+    },
+    {
+      "id": "s008",
+      "name": "Central Pharmacy",
+      "address": "3 High Street, Milhan",
+      "contact": "05678 901234",
+      "lat": "51.233334",
+      "lng": "6.783333",
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63373.43351651299!2d79.83129433124999!3d6.909775299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259d03c156dcd%3A0x8f0ce23b2a690822!2sWelikada%20Pharmacy!5e0!3m2!1sen!2slk!4v1679596953585!5m2!1sen!2slk",
+      "keywords": ["aspirin", "ibuprofen", "amoxicillin", "naproxen", "tramadol"]
+    }
+  ]

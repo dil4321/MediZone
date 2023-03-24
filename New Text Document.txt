@@ -1,0 +1,2 @@
+Ng2search NPM library included
+npm install --save @types/google.maps
